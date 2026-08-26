@@ -40,6 +40,9 @@ My goal is to continue expanding my understanding of enterprise technology while
 
 ### Independent Projects
 
+- [AI Data Cleaning Agent | AWS Community Day Sacramento Hackathon - August, 2026](https://github.com/cya-technology/AI-data-cleaning-agent)
+  Developed an AI-powered agent designed to clean and standardize cluttered spreadsheet data for human review and approval before uploading the data into a SQL database. The project explored how AI automation could improve data quality and reduce manual effort while maintaining human oversight over data changes.
+
 - [SOC SIEM LAB Details](https://github.com/cya-technology/soc-siem-lab)
 
   Designed and implemented a self-directed SOC/SIEM home lab using Splunk Enterprise, Sysmon, Ubuntu Server, and Windows telemetry to develop behavioral detections and validate security alerts.
