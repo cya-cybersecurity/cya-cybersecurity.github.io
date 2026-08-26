@@ -4,7 +4,7 @@
 
 Welcome to my professional technology portfolio.
 
-With over 5 years of experience working with business systems and enterprise technology, I have developed a strong foundation in understanding how technology supports business operations. My experience and ongoing education span business systems, ERP, data and reporting, cybersecurity, and emerging technologies.
+With over 6 years of experience working with business systems and enterprise technology, I have developed a strong foundation in understanding how technology supports business operations. My experience and ongoing education span business systems, ERP, data and reporting, cybersecurity, and emerging technologies.
 
 I am particularly interested in the intersection of business and technology—analyzing how systems, processes, data, and security work together to support effective and efficient organizations.
 
